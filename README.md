@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan2101" alt="darshan2101" /></a> </p>
 
-- 💬 Ask me about **Javascript, Ruby , Express.JS , React.JS , Ruby on Rails , MySQL , MongoDB, Docker , Jenkins , Cloud Solutions with AWS, Azure and GCP**
+- 💬 Ask me about **Javascript, Ruby , Python, Express.JS , React.JS , Ruby on Rails , MySQL , MongoDB, Docker , Jenkins , Cloud Solutions with AWS, Azure and GCP**
 
 
 <h3 align="left">Connect with me:</h3>
