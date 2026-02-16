@@ -53,6 +53,20 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshan2101&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=darshan2101&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan2101&theme=radical" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan2101&theme=radical" alt="Repos by Language" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -128,33 +142,11 @@ const darshan = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/darshan2101">
-    <img src="https://github-readme-stats.vercel.app/api?username=darshan2101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/darshan2101">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan2101&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/darshan2101">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan2101&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan2101&theme=radical" alt="Profile Summary" />
 </p>
-
----
-
-## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan2101&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
