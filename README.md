@@ -26,7 +26,7 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 ## 💼 Professional Experience
 
 ### 🏢 Backend & AI/ML Engineer @ StorageDNA (DNAFabric)
-*May 2023 - Present | Remote, USA*
+*May 2024 - Present | Remote, USA*
 
 - 🤖 Developed AI/ML-powered engines for metadata enrichment, transcription, and catalog indexing
 - 📊 Built storage analysis indexers tracking metadata (modTime, runtime, extensions, sizes)
@@ -35,7 +35,7 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 - 🐳 Implemented microservices architecture using Docker and cloud services
 
 ### 💻 Software Developer @ BIGSCAL TECHNOLOGIES Pvt. Ltd.
-*January 2022 - Present | Surat, India*
+*January 2023 - Present | Surat, India*
 
 - 🏥 Led backend development for **Healthray** - a healthcare SaaS platform
 - 📱 Integrated Vartalaap WhatsApp API, reducing manual setup time by **60%**
@@ -47,11 +47,9 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://shadow-github-profile-trophy.vercel.app/?username=darshan2101&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://shadow-github-profile-trophy-8wl741bg0-darshan2101s-projects.vercel.app/?username=darshan2101&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -132,18 +130,14 @@ const darshan = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan2101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan2101&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darshan2101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan2101&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</p>
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshan2101&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan2101&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -186,8 +180,6 @@ I'm always interested in collaborating on innovative projects and discussing tec
 <div align="center">
 
 ### 💭 "Building scalable systems, one commit at a time"
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
 
