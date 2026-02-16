@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan2101&label=Profile%20views&color=0e75b6&style=flat" alt="darshan2101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan2101" alt="darshan2101" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="shadow-github-profile-trophy-8wl741bg0-darshan2101s-projects.vercel.app/?username=darshan2101" alt="darshan2101" /></a> </p>
 
 - 💬 Ask me about **Javascript, Ruby , Python, Express.JS , React.JS , Ruby on Rails , MySQL , MongoDB, Docker , Jenkins , Cloud Solutions with AWS, Azure and GCP**
 
