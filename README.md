@@ -48,7 +48,7 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://shadow-github-profile-trophy-8wl741bg0-darshan2101s-projects.vercel.app/?username=darshan2101&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://shadow-github-profile-trophy.vercel.app/?username=darshan2101&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -131,12 +131,33 @@ const darshan = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darshan2101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan2101&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/darshan2101">
+    <img src="https://github-readme-stats.vercel.app/api?username=darshan2101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan2101&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/darshan2101">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan2101&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/darshan2101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan2101&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan2101&theme=radical" alt="Profile Summary" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan2101&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
