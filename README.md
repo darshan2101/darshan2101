@@ -4,7 +4,7 @@
 
 ### Backend Engineer | AI/ML Enthusiast | Cloud Solutions Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tarun-darshan-b-867327224--)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshan-babariya-dev--)
 [![Profile Views](https://komarev.com/ghpvc/?username=darshan2101&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/darshan2101)
 
 </div>
