@@ -4,7 +4,7 @@
 
 ### Backend Engineer | AI/ML Enthusiast | Cloud Solutions Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshan-babariya-dev--)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshan-babariya-dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=darshan2101&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/darshan2101)
 
 </div>
@@ -35,7 +35,7 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 - 🐳 Implemented microservices architecture using Docker and cloud services
 
 ### 💻 Software Developer @ BIGSCAL TECHNOLOGIES Pvt. Ltd.
-*January 2023 - Present | Surat, India*
+*January 2023 - March 2026 | Surat, India*
 
 - 🏥 Led backend development for **Healthray** - a healthcare SaaS platform
 - 📱 Integrated Vartalaap WhatsApp API, reducing manual setup time by **60%**
