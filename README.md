@@ -1,10 +1,11 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Darshan Babariya
 
-### Backend Engineer | AI/ML Enthusiast | Cloud Solutions Architect
+### Backend & Data Platform Engineer | AI/ML Systems | Cloud Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshan-babariya-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darshan-babariya-portfolio.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=darshan2101&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/darshan2101)
 
 </div>
@@ -13,43 +14,42 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer with 3+ years of experience** specializing in backend engineering, system design, and AI/ML integrations. Currently working as a **Backend & AI/ML Engineer at StorageDNA**, where I modernize legacy systems and build scalable, AI-powered solutions.
+Backend and data platform engineer with **3.5 years** shipping production systems at real scale. I build multi-provider AI ingestion pipelines, design schemas that survive years of vendor drift, and rewrite APIs for both human and LLM-agent consumption.
 
-- 🔭 Currently working on **AI/ML-driven metadata enrichment & storage optimization systems**
-- 🌱 Expertise in **Node.js, Python, Ruby on Rails, Docker, AWS/Azure/GCP**
-- 💡 Passionate about **system design, performance optimization, and microservices architecture**
-- 🎯 Focused on building **robust, maintainable, and scalable backend solutions**
-- ⚡ Fun fact: I love **experimenting with emerging technologies and AI integrations**
+- 🔭 Built production AI ingestion across **~18 cloud and AI providers** feeding a unified MongoDB schema for petabyte-scale catalogs at Netflix and Warner Bros.
+- 🏆 My AI integration work won StorageDNA the **IBC 2025 award in Amsterdam**
+- 🤖 Author of **Daedalus**, an open-source multi-agent LLM orchestration system (LangGraph, 6 providers, 137 tests)
+- 🛠️ Core stack: **Node.js, Python, Ruby on Rails, MongoDB, MySQL, Redis, Docker**
+- 🌍 Open to remote backend, AI platform, and data infrastructure roles globally
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Backend & AI/ML Engineer @ StorageDNA (DNAFabric)
-*May 2024 - Present | Remote, USA*
+### 🏢 Backend & Data Platform Engineer — StorageDNA (DNAFabric)
+*Apr 2024 – Apr 2026 | Remote, USA | Contract via Bigscal | 5–10 person team*
 
-- 🤖 Developed AI/ML-powered engines for metadata enrichment, transcription, and catalog indexing
-- 📊 Built storage analysis indexers tracking metadata (modTime, runtime, extensions, sizes)
-- ⚡ Optimized AI-driven pipelines achieving **35% performance improvement** via caching and query tuning
-- 🔧 Modernized legacy storage systems with query optimization and scalability enhancements
-- 🐳 Implemented microservices architecture using Docker and cloud services
+Building DNAFabric, an AI-powered media asset management platform for Netflix, Warner Bros., and Pinewood Studios.
 
-### 💻 Software Developer @ BIGSCAL TECHNOLOGIES Pvt. Ltd.
-*January 2023 - March 2026 | Surat, India*
+- 🔌 Shipped production ingestion across ~18 cloud and AI providers (audio, video, vision AI, cloud storage, media platforms), coordinated by a ~3,000 LOC Python orchestrator handling retries, scheduling, and run state
+- 🗂️ Authored 8 provider-specific normalizers feeding a unified MongoDB schema that held across two years of provider drift, making each new provider a one-file adapter change
+- 🔁 Rewrote 400+ REST API endpoints to v2 for dual use: client self-service frontends and machine-readable consumption by an internal Claude MCP server, with error semantics built for LLM-agent recovery
+- ⚡ Replaced a legacy Java Lucene catalog indexer with a Node.js job-queue ingestion engine, converting multi-hour batch reporting into live workflow analytics
+- 💰 Built a programmatic provider cost calculator: cron-driven cost ingestion, formula-porting from Tableau into reusable Node.js services, replacing a manual analyst workflow
+- 🎤 Work showcased at **NAB 2026 (Las Vegas)** and **MPTS 2026 (London)**
 
-- 🏥 Led backend development for **Healthray** - a healthcare SaaS platform
-- 📱 Integrated Vartalaap WhatsApp API, reducing manual setup time by **60%**
-- 🔐 Built granular access management system for multiple admin roles
-- 💳 Integrated payment gateways and third-party cloud services
-- 📈 Optimized databases via query tuning, indexing, and caching strategies
+### 💻 Software Developer — Bigscal Technologies Pvt. Ltd.
+*Jan 2023 – Apr 2026 | Surat, India | Joined at ~50 engineers, now 150+*
 
----
+Primary project: Healthray, a multi-tenant healthcare SaaS serving 1,500+ organizations and 10,000+ doctors.
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://shadow-github-profile-trophy.vercel.app/?username=darshan2101&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
+- 🔐 Designed a subscription-tiered, resource-level multi-tenant RBAC system resolving three layers per request (plan, role scope, tenant isolation) with Redis absorbing concurrent-change overhead, no restarts or manual cache invalidation
+- 📉 Cut query execution from **16–17 seconds to 1–2 seconds** on high-load endpoints using composite indexes and precomputed MySQL views, replacing full-table scans with a self-inheritance architecture
+- 🐳 Rebuilt Docker infrastructure with Alpine multi-stage builds and isolated bridge networks per module to kill Redis cache pollution and queue interference
+- 🚀 Set up per-module Jenkins CI/CD with distinct staging and production environments for independent deployments
+- 💳 Integrated Razorpay with async webhook handling for the payment lifecycle and automated invoicing
+- 📱 Automated WhatsApp patient campaigns via Vartalaap, cutting setup effort by **70%**
+- 🏥 Platform showcased at the **Global Digital Health Summit, Jio World Convention Centre, Mumbai**
 
 ---
 
@@ -76,8 +76,13 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-F4901E?style=for-the-badge&logo=hapi&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### AI & Orchestration
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,96 +94,66 @@ I'm a **Software Developer with 3+ years of experience** specializing in backend
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-## 🎯 Core Competencies
-
-```typescript
-const darshan = {
-    expertise: [
-        "Backend Engineering",
-        "System Design & Architecture", 
-        "AI/ML Integration",
-        "Database Optimization",
-        "Microservices Architecture",
-        "Cloud Solutions (AWS, Azure, GCP)",
-        "DevOps & CI/CD Pipelines"
-    ],
-    strengths: [
-        "Performance Optimization (35% improvement achieved)",
-        "Cost Reduction through efficient architecture",
-        "Legacy System Modernization",
-        "API Development & Integration",
-        "Quality-driven with comprehensive testing"
-    ],
-    currentlyLearning: [
-        "Advanced AI/ML techniques",
-        "Kubernetes & Container Orchestration",
-        "Serverless Architecture",
-        "Event-driven systems"
-    ]
-};
-```
-
----
-
-## 🌟 Key Achievements
-
-- ⚡ **35% Performance Boost** - Optimized AI-driven pipelines through strategic caching and query tuning
-- 📉 **60% Time Reduction** - Automated WhatsApp campaign setup via Vartalaap API integration
-- 🏗️ **Legacy Modernization** - Successfully refactored and scaled legacy storage systems
-- 🔒 **Enterprise Security** - Implemented granular access management for healthcare SaaS platform
-- 🐳 **DevOps Excellence** - Streamlined deployment workflows with Docker and CI/CD pipelines
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan2101&theme=radical" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan2101&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 💡 Featured Projects
 
-### 🧬 StorageDNA - AI/ML-Powered Storage System
-- Built metadata enrichment engines with AI/ML capabilities
-- Developed cloud asset changelist systems (Python + Node.js)
-- Created storage analysis indexer for comprehensive metadata tracking
-- Implemented AI-driven catalog search with optimized performance
+### 🤖 [Daedalus](https://github.com/darshan2101/Daedalus) — Multi-Agent LLM Orchestration
+*Python, LangGraph, MongoDB, Redis, OpenRouter, Groq*
 
-### 🏥 Healthray - Healthcare SaaS Platform
-- Backend development for comprehensive healthcare management system
-- WhatsApp campaign automation integration
-- Advanced reporting and payment management features
-- Multi-role access control system
+- Each agent runs a KimiFlow plan-execute-evaluate loop targeting >0.88 component-level scores; parallel agent outputs go through conflict resolution before checkpoint commit to MongoDB via Motor
+- Per-agent model assignment across 6 providers with a circuit breaker backed by Upstash Redis health tracking, isolating unhealthy providers per agent role to avoid thundering herd on rate-limit events
+- Async topological wave execution on LangGraph: each wave runs concurrently, the next starts only when dependencies resolve
+- 137 unit and integration tests across ~20 source files
 
-### 🔬 Side Projects & Experiments
-- Microservice prototypes with AWS Lambda, SNS, SQS
-- Docker-based environment orchestration
-- AI/ML transcription services
-- Automation tools and scripts
+### 🧬 DNAFabric — Multi-Provider Ingestion & v2 API Platform
+*Node.js, Python, MongoDB, AWS, Azure, GCP, AssemblyAI, Whisper, TwelveLabs, Frame.io*
+
+- Normalized AI outputs from ~18 providers into a unified MongoDB schema supporting full-text search and structured filtering without per-vendor indexes — the AI integration feature behind StorageDNA's **IBC 2025 award**
+- Rewrote the public REST API to v2 (400+ endpoints) for client self-service and machine-readable Claude MCP consumption
+- Replaced a Java Lucene catalog indexer with a Node.js job-queue engine, turning batch reporting into on-demand live analytics
+
+### 🛟 [NOVA AI Platform](https://github.com/darshan2101/DemoChain) — Multi-Agent Customer Support
+*Python, LangGraph, MCP, ChromaDB, QLoRA, Groq, OpenRouter*
+
+- Multi-agent orchestration (intent classifier, RAG agent, recommendation engine, escalation handler) automating 60% of support tickets for a D2C brand
+- MCP server with 5 backend tools, HMAC-signed audit logging, and full agent decision trail
+- Hybrid RAG (ChromaDB + BM25) evaluated with RAGAS; QLoRA fine-tuning via PEFT + TRL for brand-voice alignment
+
+### 🚢 [SMDE](https://github.com/darshan2101/document_extractor) — Smart Maritime Document Extractor
+*Node.js, Express, BullMQ, Redis, SQLite, configurable LLM*
+
+- Async LLM document extraction with sync/async modes, configurable OpenAI-compatible provider, and HMAC-SHA256 signed webhooks
+- Cross-document compliance validation with structured APPROVED/CONDITIONAL/REJECTED output and a 0–100 compliance score
+- Integration tests via Postman/Newman, rate-limited to 10 req/min per IP
+
+### 👥 [HR Management](https://github.com/darshan2101/hr_management) — Full-Stack Employee Platform
+*Node.js, Express, React, Vite, SQLite*
+
+- Dashboard with SVG charts, employee CRUD with filtering and sorting, salary insights by country and job title, seeded with 10,000 employees
+- 39 backend tests (Mocha/Chai) with documented architecture and tradeoffs
 
 ---
 
-## 📫 Let's Connect!
+## 🎓 Education
 
-I'm always interested in collaborating on innovative projects and discussing technology!
+**B.Tech, Computer Engineering** — Gujarat Technological University (GTU), 2019–2023
+GPA: 9.0 / 10
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -192,8 +167,6 @@ I'm always interested in collaborating on innovative projects and discussing tec
 
 <div align="center">
 
-### 💭 "Building scalable systems, one commit at a time"
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
+**Building scalable systems, one commit at a time.**
 
 </div>
